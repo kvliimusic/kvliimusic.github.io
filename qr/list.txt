@@ -1,10 +1,10 @@
 00 - Test (https://kvliimusic.github.io/test)
-01 - YouTube
-02 - Twitter
-03 - Discord
-04 - Instagram
-05 - Soundcloud
-06 - 
+01 - YouTube (https://kvliimusic.github.io/youtube)
+02 - Twitter (https://kvliimusic.github.io/twitter)
+03 - Discord (https://kvliimusic.github.io/discord)
+04 - Instagram (https://kvliimusic.github.io/instagram)
+05 - Soundcloud (https://kvliimusic.github.io/soundcloud)
+06 - Streaming services (https://kvliimusic.github.io/streaming)
 07 - 
 08 - 
 09 - 
